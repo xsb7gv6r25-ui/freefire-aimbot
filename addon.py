@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # ============================================
 # FREEFIRE AIMBOT - 95% HEADSHOT
-# ADDON PARA MITMPROXY (SOCKS5)
+# ADDON PARA MITMPROXY (HTTP)
 # VERSIÓN 4.0 - INDETECTABLE
 # ============================================
 
